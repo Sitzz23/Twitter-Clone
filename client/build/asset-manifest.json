@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.762161a5.chunk.css",
+    "main.js": "/static/js/main.6d962022.chunk.js",
+    "main.js.map": "/static/js/main.6d962022.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b2a08d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b2a08d8.js.map",
+    "static/js/2.21b4f259.chunk.js": "/static/js/2.21b4f259.chunk.js",
+    "static/js/2.21b4f259.chunk.js.map": "/static/js/2.21b4f259.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.762161a5.chunk.css.map": "/static/css/main.762161a5.chunk.css.map",
+    "static/js/2.21b4f259.chunk.js.LICENSE.txt": "/static/js/2.21b4f259.chunk.js.LICENSE.txt",
+    "static/media/ProfileSettings.scss": "/static/media/close-icon.ea91b49d.svg",
+    "static/media/SignUp.scss": "/static/media/circle.84034d3a.jpg",
+    "static/media/MobileHeader.scss": "/static/media/default-profile-pic.57d14744.png",
+    "static/media/DetailedTweetInfo.scss": "/static/media/left-arrow.9dd1db07.svg",
+    "static/media/DetailedTweet.scss": "/static/media/share.f0189d11.svg",
+    "static/media/Base.scss": "/static/media/logo-white.4d73a492.png",
+    "static/media/Bookmarks.scss": "/static/media/options-dots-white.d3aa4f71.svg",
+    "static/media/twitter-logo.8b4fb8a5.png": "/static/media/twitter-logo.8b4fb8a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b2a08d8.js",
+    "static/js/2.21b4f259.chunk.js",
+    "static/css/main.762161a5.chunk.css",
+    "static/js/main.6d962022.chunk.js"
+  ]
+}
