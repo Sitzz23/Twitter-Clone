@@ -48,7 +48,7 @@ const Login = ({ handleSetActiveUser }) => {
     };
 
     axios
-      .post("http://localhost:3000/api/auth/login", user)
+      .post("http://localhost:5000/api/auth/login", user)
       .then((res) => {
         if (res.status === 200) {
           userLoginDetailElement.current.style.border = "1px solid #303237";
