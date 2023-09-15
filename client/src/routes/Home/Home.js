@@ -62,7 +62,7 @@ const Home = ({
   }, [tweets]);
 
   useEffect(() => {
-    if (newTweetText.trim() === "" || newTweetText.trim().length > 280) {
+    if (newTweetText.trim() === "" || newTweetText.trim().length > 300) {
       setDisabled(true);
     } else {
       setDisabled(false);
